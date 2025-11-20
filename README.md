@@ -13,13 +13,13 @@ Sou Vinícius, estudante de Engenharia Mecânica.
 
 <div>
   
-![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
+![python](https://img.shields.io/badge/python-&logo=Python&style=for-the-badge&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 
-![html](https://img.shields.io/badge/html-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)
+![html](https://img.shields.io/badge/html-&logo=HTML5&style=for-the-badge&logoColor=white)
 ![css](https://img.shields.io/badge/css-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)
 
