@@ -34,8 +34,8 @@ Sou Vinícius, estudante de Engenharia Mecânica.
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![postgreSQL](https://img.shields.io/badge/PostgreSQL-lightgrey?labelColor=4169E1&logo=PostgreSQL&style=for-the-badge&logoColor=white)
-![mongoDB](https://img.shields.io/badge/MongoDB-lightgrey?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
