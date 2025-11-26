@@ -39,6 +39,7 @@ Atualmente, estou trabalhando no meu TCC focado em **simulação em tempo real d
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 
 <h4>🌐 Web & Backend</h4>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
