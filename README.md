@@ -6,7 +6,7 @@
     <a href="https://www.instagram.com/serrarocketry/">Serra Rocketry</a>
   </p>
 </div>
----
+
 ## 👨‍💻 Sobre mim
 Sou apaixonado por unir o mundo físico ao digital. Hoje meu foco é construir sistemas **embarcados** e **orientados a missão** (telemetria, aviônica, integração de sensores) e aplicar **IA** quando ela realmente agrega (visão/LLMs multimodais em manufatura).
 - 🔭 **Atualmente trabalhando em:** avionics (RTOS + FSM), telemetria LoRa e integração de sensores para missões reais.
@@ -14,7 +14,7 @@ Sou apaixonado por unir o mundo físico ao digital. Hoje meu foco é construir s
 - 🌱 **Estudando:** LLMs multimodais, visão computacional aplicada e tooling em Linux.
 - 🐧 **OS Principal:** Linux Fedora (Sim, eu uso Arch... digo, Fedora!).
 - ⚡ **Hobby:** Impressão 3D com minha Ender 3 Pro (Klipper + mods).
----
+
 ## 🎯 Foco atual (projetos)
 ### 🚀 Flight Computer V2 — Missões Thonyan (500 m) e Dédalo (1 km)
 **Objetivo:** evoluir V1 → V2 com foco em **determinismo**, **testabilidade** e **fault tolerance**.
@@ -33,7 +33,7 @@ Sou apaixonado por unir o mundo físico ao digital. Hoje meu foco é construir s
 - **Cloud**: GPT-4o (API)
 - **Local**: LLaVA/Llama Vision via **Ollama**
 Integração com **OctoPrint/Klipper**, pipeline captura → análise → decisão → ação.
----
+
 ## 🧰 Como eu trabalho (engenharia)
 Uma regra simples para manter decisões consistentes em projeto:
 **3 filtros**
