@@ -4,7 +4,7 @@
 
 ### Avionics & Firmware Engineer · Mission Systems · BI & Data
 
-**Mechanical Engineering (IPRJ-UERJ)** — Avionics/Telemetry Sector Manager at [Serra Rocketry](https://www.instagram.com/serrarocketry/)
+**Mechanical Engineering (IPRJ-UERJ)** — Payload Sector Manager at [Serra Rocketry](https://www.instagram.com/serrarocketry/)
 
 </div>
 
